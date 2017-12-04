@@ -1,0 +1,27 @@
+{
+  "name": "fp-lib",
+  "version": "1.0.0",
+  "description": "placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhbs/fp-lib-js.git"
+  },
+  "keywords": [
+    "fp",
+    "js"
+  ],
+  "author": "Anirudh B S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anirudhbs/fp-lib-js/issues"
+  },
+  "homepage": "https://github.com/anirudhbs/fp-lib-js#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
