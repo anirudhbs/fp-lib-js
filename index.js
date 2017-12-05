@@ -1,4 +1,4 @@
 const console = require('console')
-const util = require('./lib/main')
+const { util } = require('./lib/main')
 
-console.log(util.util.reverse([1, 2, 3]))
+console.log(util.flip([1, 2, 3, 4]))
