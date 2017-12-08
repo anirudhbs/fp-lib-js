@@ -1,5 +1,5 @@
 {
-  "name": "fp-lib",
+  "name": "fp-lib-js",
   "version": "1.0.0",
   "description": "placeholder",
   "main": "index.js",
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/anirudhbs/fp-lib-js/issues"
   },
-  "homepage": "https://github.com/anirudhbs/fp-lib-js#readme",
-  "devDependencies": {
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0"
-  }
+  "homepage": "https://github.com/anirudhbs/fp-lib-js#readme"
 }
