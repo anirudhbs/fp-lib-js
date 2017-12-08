@@ -25,3 +25,4 @@ const {
 // console.log(util.howMany('a b c a d a', 'a'))
 // console.log(util.dropFromStart([1, 2, 3, 4], 2))
 // console.log(without([1, 2, 3, 4], 1, 2))
+// console.log(util.random(12, 30))
